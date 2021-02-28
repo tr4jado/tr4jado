@@ -1,0 +1,7 @@
+<meta>
+    <info author='tr4jado' name='discord copy system' />
+    
+    <script src='tr4jadoConfig.lua' type='shared' cache='false' />
+    <script src='tr4jadoC.lua' type='client' cache='false' />
+    <script src='tr4jadoS.lua' type='server' />
+</meta>
