@@ -3,9 +3,9 @@
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 
+****
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/Eqm9Cqi.png"/>](https://discord.gg/rpvanish/)
 
-****
 **Developer** \
 [**Brasil Vanish Roleplay**](https://discord.gg/rpvanish/) • Contrato \
 **Linguagem:** `Lua` \
@@ -15,7 +15,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 ****
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/2OUJ49k.png"/>](https://discord.gg/revolutionmta/)
 
-**Developer** \
+**Developer / Multi Tasking** \
 [**Brasil Revolution Roleplay**](https://discord.gg/revolutionmta/) • Contrato \
 **Linguagem:** `Lua` \
 **Período:** 2021
