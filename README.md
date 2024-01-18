@@ -2,6 +2,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/2OUJ49k.png"/>](https://discord.gg/revolutionmta/)
 
 **Developer** \
@@ -26,6 +27,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Período:** 2023-2024
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+Por favor, encontre-me no [Discord](https://discord.gg/4DF3Bs9kmZ/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 [![tr4jado](https://github-readme-stats.vercel.app/api/top-langs/?username=tr4jado&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
