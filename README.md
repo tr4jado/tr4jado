@@ -11,6 +11,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Período:** 2021
 <br/>
 
+****
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/2OUJ49k.png"/>](https://discord.gg/revolutionmta/)
 
 **Developer** \
@@ -19,6 +20,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Período:** 2021
 <br/>
 
+****
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/4B3OJzY.png"/>](https://discord.gg/bcrmta/)
 
 **Developer** \
@@ -27,6 +29,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Período:** 2023
 <br/>
 
+****
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/Eqm9Cqi.png"/>](https://discord.gg/rpvanish/)
 
 **Developer** \
