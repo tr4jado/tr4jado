@@ -1,42 +1,31 @@
-![](https://komarev.com/ghpvc/?username=tr4jado&color=006bed)
+### Experiência de trabalho
 
-## Sobre mim
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/2OUJ49k.png"/>](https://discord.gg/revolutionmta/)
 
-## Minhas Skills
-
-**Aplicações e dados**
-
-![Java](https://img.shields.io/badge/-Lua-333333?style=flat&logo=LUA&logoColor=00007C)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
+**Developer** \
+[**Brasil Revolution Roleplay**](https://discord.gg/revolutionmta/) • Freelancer \
+**Linguagem:** `Lua` \
+**Período:** 2021
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do tr4jado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tr4jado&theme=dracula&show_icons=true" />
-</a>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/4B3OJzY.png"/>](https://discord.gg/bcrmta/)
 
-## Onde me encontrar
+**Developer** \
+[**Brasil Cidade Real**](https://discord.gg/bcrmta/) • Freelancer \
+**Linguagem:** `Lua` \
+**Período:** 2023
+<br/>
 
-[![GitHub](https://img.shields.io/github/followers/tr4jado?label=follow&style=social)](https://github.com/tr4jado)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/Eqm9Cqi.png"/>](https://discord.gg/rpvanish/)
+
+**Developer** \
+[**Brasil Vanish Roleplay**](https://discord.gg/rpvanish/) • Freelancer \
+**Linguagem:** `Lua` \
+**Período:** 2023-2024
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+[![tr4jado](https://github-readme-stats.vercel.app/api/top-langs/?username=tr4jado&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
