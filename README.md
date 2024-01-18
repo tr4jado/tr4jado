@@ -1,3 +1,7 @@
+![](https://komarev.com/ghpvc/?username=tr4jado&color=blue)
+
+****
+
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
