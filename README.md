@@ -5,6 +5,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/Eqm9Cqi.png"/>](https://discord.gg/rpvanish/)
 
+****
 **Developer** \
 [**Brasil Vanish Roleplay**](https://discord.gg/rpvanish/) • Contrato \
 **Linguagem:** `Lua` \
@@ -37,7 +38,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Linguagem:** `Lua` \
 **Período:** 2023-2024
 <br/>
-
+****
 
 Por favor, encontre-me no [Discord](https://discord.gg/4DF3Bs9kmZ/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
