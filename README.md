@@ -6,7 +6,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/2OUJ49k.png"/>](https://discord.gg/revolutionmta/)
 
 **Developer** \
-[**Brasil Revolution Roleplay**](https://discord.gg/revolutionmta/) • Freelancer \
+[**Brasil Revolution Roleplay**](https://discord.gg/revolutionmta/) • Contrato \
 **Linguagem:** `Lua` \
 **Período:** 2021
 <br/>
