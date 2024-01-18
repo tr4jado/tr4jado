@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=tr4jado&color=blue)
 
-**
+****
 
 ### Experiência de trabalho
 
