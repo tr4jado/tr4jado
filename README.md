@@ -44,6 +44,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 <br/>
 ****
 
-Por favor, encontre-me no [Discord](https://discord.gg/4DF3Bs9kmZ/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [Discord](https://discord.gg/tr4jado/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 [![tr4jado](https://github-readme-stats.vercel.app/api/top-langs/?username=tr4jado&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
