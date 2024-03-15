@@ -11,16 +11,6 @@ Olá! Meu nome é tr4jado, sou um programador desde 2019 em desenvolvimento, com
 - **Desenvolvedor de Software**: Brasil Vanish Roleplay (2021)
   - Criação e desenvolvimento de sistemas em Lua.
 
-## Projetos Destacados
-
-### **tr4jado_animations**: Painel de Animações
-- Painel de Animações com várias novidades.
-- Sistema feito, dropado e usado em muitos servidores.
-
-### **tr4jado_infobox**: Sistema de Notificação
-- Infobox com design clean.
-- Sistema feito, dropado e usado em muitos servidores.
-
 ## Contato
 Sinta-se à vontade para entrar em contato comigo por meio do meu [e-mail](fael.marinho7@gmail.com) ou através das minhas redes sociais:
 - **Discord:** tr4jado.
