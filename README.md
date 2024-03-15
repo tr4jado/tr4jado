@@ -1,49 +1,32 @@
 ![](https://komarev.com/ghpvc/?username=tr4jado&color=blue)
 
-****
+---
 
-### Experiência de trabalho
+# Bem-vindo ao meu perfil do GitHub!
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+## Sobre mim
+Olá! Meu nome é tr4jado, sou um programador desde 2019 em desenvolvimento, com foco principalmente em Lua e Java. Estou apaixonado por escrever código limpo, eficiente e escalável que resolve problemas de forma elegante.
 
+## Experiência
+- **Desenvolvedor de Software**: Brasil Vanish Roleplay (2021)
+  - Criação e desenvolvimento de sistemas em Lua.
 
-****
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/Eqm9Cqi.png"/>](https://discord.gg/rpvanish/)
+## Projetos Destacados
 
-**Developer** \
-[**Brasil Vanish Roleplay**](https://discord.gg/rpvanish/) • Contrato \
-**Linguagem:** `Lua` \
-**Período:** 2021
-<br/>
+### **tr4jado_animations**: Painel de Animações
+- Painel de Animações com várias novidades.
+- Sistema feito, dropado e usado em muitos servidores.
 
-****
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/2OUJ49k.png"/>](https://discord.gg/revolutionmta/)
+### **tr4jado_infobox**: Editbox
+- Infobox com design clean.
+- Sistema feito, dropado e usado em muitos servidores.
 
-**Developer / Multi Tasking** \
-[**Brasil Revolution Roleplay**](https://discord.gg/revolutionmta/) • Contrato \
-**Linguagem:** `Lua` \
-**Período:** 2021
-<br/>
+## Contato
+Sinta-se à vontade para entrar em contato comigo por meio do meu [e-mail](seuemail@example.com) ou através das minhas redes sociais:
+- **Discord:** tr4jado.
 
-****
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/4B3OJzY.png"/>](https://discord.gg/bcrmta/)
+## Contribuições
+Contribuo ativamente para a comunidade de desenvolvimento, seja através de contribuições para projetos de código aberto ou participando de fóruns e comunidades online.
+Se você tiver interesse em colaborar em algum projeto, entre em contato! Estou sempre aberto a novas oportunidades e conexões.
 
-**Developer** \
-[**Brasil Cidade Real**](https://discord.gg/bcrmta/) • Freelancer \
-**Linguagem:** `Lua` \
-**Período:** 2023
-<br/>
-
-****
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/Eqm9Cqi.png"/>](https://discord.gg/rpvanish/)
-
-**Developer** \
-[**Brasil Vanish Roleplay**](https://discord.gg/rpvanish/) • Freelancer \
-**Linguagem:** `Lua` \
-**Período:** 2023-2024
-<br/>
-****
-
-Por favor, encontre-me no [Discord](https://discord.gg/tr4jado/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
-[![tr4jado](https://github-readme-stats.vercel.app/api/top-langs/?username=tr4jado&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Obrigado por visitar meu perfil do GitHub!
