@@ -22,7 +22,7 @@ Olá! Meu nome é tr4jado, sou um programador desde 2019 em desenvolvimento, com
 - Sistema feito, dropado e usado em muitos servidores.
 
 ## Contato
-Sinta-se à vontade para entrar em contato comigo por meio do meu [e-mail](seuemail@example.com) ou através das minhas redes sociais:
+Sinta-se à vontade para entrar em contato comigo por meio do meu [e-mail](fael.marinho7@gmail.com) ou através das minhas redes sociais:
 - **Discord:** tr4jado.
 
 ## Contribuições
