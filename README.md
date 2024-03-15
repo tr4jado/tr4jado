@@ -24,6 +24,7 @@ Olá! Meu nome é tr4jado, sou um programador desde 2019 em desenvolvimento, com
 ## Contato
 Sinta-se à vontade para entrar em contato comigo por meio do meu [e-mail](fael.marinho7@gmail.com) ou através das minhas redes sociais:
 - **Discord:** tr4jado.
+- **[Instagram](https://instagram.com/rfzn021_/)**
 
 ## Contribuições
 Contribuo ativamente para a comunidade de desenvolvimento, seja através de contribuições para projetos de código aberto ou participando de fóruns e comunidades online.
