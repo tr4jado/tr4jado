@@ -17,7 +17,7 @@ Olá! Meu nome é tr4jado, sou um programador desde 2019 em desenvolvimento, com
 - Painel de Animações com várias novidades.
 - Sistema feito, dropado e usado em muitos servidores.
 
-### **tr4jado_infobox**: Editbox
+### **tr4jado_infobox**: Sistema de Notificação
 - Infobox com design clean.
 - Sistema feito, dropado e usado em muitos servidores.
 
