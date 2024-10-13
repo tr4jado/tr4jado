@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=tr4jado&color=blue)
 
-## ☕ Development Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+- **Languages**:
+
   ![](https://img.shields.io/badge/java-00000F?style=for-the-badge&logo=oracle&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/python-00000F?style=for-the-badge&logo=python&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/lua-00000F?style=for-the-badge&logo=lua&logoColor=2CA5E0)
@@ -9,16 +12,23 @@
   ![](https://img.shields.io/badge/sqlite-00000F?style=for-the-badge&logo=sqlite&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=2CA5E0)
 
-## 💽 Operational systems
-  ![Windows](https://img.shields.io/badge/windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+- **Operational Systems**:
 
-## ✍🏻️ IDEs
-  ![](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=vscode%20studio%20code&logoColor=2CA5E0)
-  ![](https://img.shields.io/badge/intellij_idea-000.svg?style=for-the-badge&logo=intellij-idea&logoColor=2CA5E0)
+  ![](https://img.shields.io/badge/windows-00000F?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+  ![](https://img.shields.io/badge/linux-00000F?style=for-the-badge&logo=linux&logoColor=2CA5E0)
 
-## 💾 Others
-  ![](https://img.shields.io/badge/cloudflare-000?style=for-the-badge&logo=cloudflare&logoColor=2CA5E0)
-  ![](https://img.shields.io/badge/powershell-000?style=for-the-badge&logo=powershell&logoColor=2CA5E0)
+- **Softwares**:
+
+  ![](https://img.shields.io/badge/git-00000F.svg?style=for-the-badge&logo=gitforwindows&logoColor=2CA5E0)
+  ![](https://img.shields.io/badge/github-00000F.svg?style=for-the-badge&logo=github&logoColor=2CA5E0)
+  ![](https://img.shields.io/badge/visual%20studio%20code-00000F.svg?style=for-the-badge&logo=vscode&logoColor=2CA5E0)
+  ![](https://img.shields.io/badge/intellij%20idea-00000F.svg?style=for-the-badge&logo=intellijidea&logoColor=2CA5E0)
+
+- **Extras**:
+
+  ![](https://img.shields.io/badge/nodejs-00000F?style=for-the-badge&logo=npm&logoColor=2CA5E0)
+  ![](https://img.shields.io/badge/cmd-00000F?style=for-the-badge&logo=educative&logoColor=2CA5E0)
+  ![](https://img.shields.io/badge/powershell-00000F?style=for-the-badge&logo=gnometerminal&logoColor=2CA5E0)
 
  ## 📶 Contact
   [![](https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=2CA5E0)](https://https://discord.com/channels/@tr4jado/)
