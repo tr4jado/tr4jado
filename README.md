@@ -7,8 +7,6 @@
   ![](https://img.shields.io/badge/java-00000F?style=for-the-badge&logo=oracle&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/python-00000F?style=for-the-badge&logo=python&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/lua-00000F?style=for-the-badge&logo=lua&logoColor=2CA5E0)
-  ![](https://img.shields.io/badge/json-00000F?style=for-the-badge&logo=json&logoColor=2CA5E0)
-  ![](https://img.shields.io/badge/figma-00000F?style=for-the-badge&logo=figma&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/sqlite-00000F?style=for-the-badge&logo=sqlite&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=2CA5E0)
 
@@ -23,12 +21,14 @@
   ![](https://img.shields.io/badge/github-00000F.svg?style=for-the-badge&logo=github&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/visual%20studio%20code-00000F.svg?style=for-the-badge&logo=vscode&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/intellij%20idea-00000F.svg?style=for-the-badge&logo=intellijidea&logoColor=2CA5E0)
+  ![](https://img.shields.io/badge/figma-00000F?style=for-the-badge&logo=figma&logoColor=2CA5E0)
 
 - **Extras**:
 
   ![](https://img.shields.io/badge/nodejs-00000F?style=for-the-badge&logo=npm&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/cmd-00000F?style=for-the-badge&logo=educative&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/powershell-00000F?style=for-the-badge&logo=gnometerminal&logoColor=2CA5E0)
+  ![](https://img.shields.io/badge/json-00000F?style=for-the-badge&logo=json&logoColor=2CA5E0)
 
  ## 📶 Contact
   [![](https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=2CA5E0)](https://https://discord.com/channels/@tr4jado/)
