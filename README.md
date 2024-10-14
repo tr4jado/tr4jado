@@ -5,6 +5,7 @@
 - **Languages**:
 
   ![](https://img.shields.io/badge/java-00000F?style=for-the-badge&logo=oracle&logoColor=2CA5E0)
+  ![](https://img.shields.io/badge/kotlin-00000F?style=for-the-badge&logo=kotlin&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/python-00000F?style=for-the-badge&logo=python&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/lua-00000F?style=for-the-badge&logo=lua&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/sqlite-00000F?style=for-the-badge&logo=sqlite&logoColor=2CA5E0)
