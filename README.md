@@ -29,7 +29,6 @@
   ![](https://img.shields.io/badge/nodejs-00000F?style=for-the-badge&logo=npm&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/cmd-00000F?style=for-the-badge&logo=educative&logoColor=2CA5E0)
   ![](https://img.shields.io/badge/powershell-00000F?style=for-the-badge&logo=gnometerminal&logoColor=2CA5E0)
-  ![](https://img.shields.io/badge/json-00000F?style=for-the-badge&logo=json&logoColor=2CA5E0)
 
  ## 📶 Contact
   [![](https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=2CA5E0)](https://https://discord.com/channels/@tr4jado/)
