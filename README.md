@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=tr4jado&color=blue)
 
+Sou um desenvolvedor back-end com experiência em diversas linguagens de programação. Ao longo da minha carreira, trabalhei em alguns projetos como freelancer e com empresas de pequeno e médio porte, desenvolvendo soluções escaláveis e de alto desempenho. Minhas principais habilidades incluem o desenvolvimento de sistemas robustos e eficientes, a integração com bancos de dados relacionais e não relacionais e a otimização de sistemas para melhor performance. Tenho interesse especial na área de back-end, onde posso utilizar minhas competências para criar soluções tecnológicas que atendem às necessidades de empresas e usuários finais. Estou sempre em busca de novos desafios e de aprimorar meus conhecimentos para oferecer soluções que seguem as melhores práticas do mercado. Se você busca um desenvolvedor comprometido e apaixonado por tecnologia, sinta-se à vontade para entrar em contato comigo!
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 - **Languages**:
